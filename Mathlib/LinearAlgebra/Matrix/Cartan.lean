@@ -11,6 +11,7 @@ public import Mathlib.GroupTheory.Perm.Cycle.Concrete
 public import Mathlib.LinearAlgebra.Matrix.Determinant.Basic
 public import Mathlib.LinearAlgebra.Matrix.Symmetric
 import Mathlib.Tactic.NormDet
+import Mathlib.LinearAlgebra.Matrix.Determinant.Bird.Correctness
 
 /-!
 # Cartan matrices

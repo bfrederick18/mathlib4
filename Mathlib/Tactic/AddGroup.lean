@@ -5,7 +5,7 @@ Authors: Kevin Buzzard
 -/
 module
 
-public import Mathlib.Tactic.Group
+public import Mathlib.Tactic.Ring
 
 /-!
 # `add_group` tactic
